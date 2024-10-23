@@ -46,7 +46,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/784d0afa-d8c6-4d7d-8681-84e5c851ea37)
+
+![17296768333606090728819161171432](https://github.com/user-attachments/assets/2b09f8bf-549b-4e6d-b80f-d07b6488a343)
 
 
  
@@ -64,8 +65,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](https://github.com/user-attachments/assets/e947dcda-b023-4668-a955-a5faf0949702)
-
+ !![17296768704372738404073676479268](https://github.com/user-attachments/assets/2ff4d9ce-ee05-4b6e-808f-26f1c5196c88)
 
 iv)	Creating the new test cell view
 
@@ -76,7 +76,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-![image](https://github.com/user-attachments/assets/0f1eb390-537e-4915-a9d5-6855883745d4)
+
+![17296769152197010022154205344410](https://github.com/user-attachments/assets/7443c672-0530-4cd5-b82c-3939df5c41ef)
 
 
  
@@ -90,19 +91,22 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![image](https://github.com/user-attachments/assets/3aac50ec-bc0f-406e-be2e-a504b8afa8c9)
+ 
+![17296769849868228488472231190243](https://github.com/user-attachments/assets/18f62d63-4fc4-4c19-b519-7e2cbb4a9cd2)
 
 For Transient Analysis Settings and Output
  
  
- ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
+ ![17296770125967622769501406528284](https://github.com/user-attachments/assets/7a3573ac-d233-4aa7-b908-4e2e1093730b)
 
- ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+![17296770410385793543238581838504](https://github.com/user-attachments/assets/d353e260-9ca8-4290-aae4-dc57ded9b4dc)
+
 
  For DC Analysis Settings and Output
-![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
 
-![image](https://github.com/user-attachments/assets/e6b8b6c7-378f-449e-82a5-72286f238b02)
+![17296770745152058971669988518995](https://github.com/user-attachments/assets/bb9bafc0-d4db-40ea-b832-1a25f6cb53cb)
+
+
 
  
 
