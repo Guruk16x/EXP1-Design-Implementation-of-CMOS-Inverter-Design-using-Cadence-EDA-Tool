@@ -90,21 +90,23 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![image](https://github.com/user-attachments/assets/3aac50ec-bc0f-406e-be2e-a504b8afa8c9)
+ ![17296773025329220654251840727037](https://github.com/user-attachments/assets/900fe18d-5064-4eb0-bead-a37fb9ec60c4)
+
 
 For Transient Analysis Settings and Output
- 
- 
- ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
+ ![17296773549711534932023472990673](https://github.com/user-attachments/assets/be6370b6-e532-4113-ae7a-d66cc8053b86)
 
- ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+ 
+ 
+![17296773719527725955725159517147](https://github.com/user-attachments/assets/2777196d-429a-44e2-85c7-5576249e1e0e)
+
+ 
 
  For DC Analysis Settings and Output
-![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
 
-![image](https://github.com/user-attachments/assets/e6b8b6c7-378f-449e-82a5-72286f238b02)
 
  
+![17296773933655372673839041480025](https://github.com/user-attachments/assets/3424fe78-22e5-4f8f-953c-6abfade7eebf)
 
 
 
